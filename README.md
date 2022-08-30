@@ -17,3 +17,6 @@ Após isso abra o arquivo `PasswordApplication.java` e clique do lado esquerdo n
 - A dto é uma forma de criar uma classe que recebe os parâmetros que o usuário irá passar no body;
 
 
+<img style="width:220px" src="https://avatars.githubusercontent.com/u/61751885?v=4"/>
+
+### Sarah Lima
